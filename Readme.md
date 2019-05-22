@@ -10,6 +10,9 @@ There are four different models supplied:
 
 An in-depth writeup of this project is at https://thenextepoch.blogspot.com/
 
+Youtube demo:
+https://www.youtube.com/watch?v=kHgDBAbkma0
+
 ### Requirements
 ```
 python 3
